@@ -21,7 +21,7 @@ The bookmarklet generates bash code that can be entered directly into the comman
 
 ## Notes
 
-<a name="why_github_pages"></a>*Why do I have to navigate to this project's [GitHub Page](http://christiangenco.github.com/Coursera-Video-Downloader-Bookmarklet) before installing the bookmark?*
+<a name="why_github_pages"></a>*Why do I have to navigate to this project's [GitHub Page](http://shivanker.github.com/Coursera-Video-Downloader-Bookmarklet) before installing the bookmark?*
 
 The  GitHub-flavored markdown renderer on [this project's repo page](https://github.com/christiangenco/Coursera-Video-Downloader-Bookmarklet) doesn't allow inline javascript, which is how the bookmark functions, so the simple "drag-and-drop" into your bookmarks bar doesn't work. GitHub pages allow this.
 
