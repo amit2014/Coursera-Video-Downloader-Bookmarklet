@@ -1,6 +1,6 @@
 # Coursera Video Downloader Bookmarklet
 
-Acknowledgements first, this project is a fork of [christiangenco's](https://github.com/christiangenco) [repo here](https://github.com/christiangenco/Coursera-Video-Downloader-Bookmarklet) expansion of [a gist](https://gist.github.com/1989008) by [csabapalfi](https://gist.github.com/csabapalfi).
+Acknowledgements first, this project is a fork of [christiangenco's](https://github.com/christiangenco) [repo here](https://github.com/christiangenco/Coursera-Video-Downloader-Bookmarklet) which in turn is an expansion of [a gist](https://gist.github.com/1989008) by [csabapalfi](https://gist.github.com/csabapalfi).
 
 This bookmarklet adds functionality to [Coursera](http://coursera.org)'s Video Lectures page to download and organize multiple videos at once with curl.
 
