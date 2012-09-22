@@ -39,7 +39,3 @@ Your selected videos will now be downloaded with the `curl` utility and organize
 * [coursera-dl](https://github.com/jplehmann/coursera) by [jplehmann](https://github.com/jplehmann): "Script for downloading Coursera.org videos and naming them." (python)
 * [coursera_downloader.py](https://github.com/LoganDing/Coursera.org-Downloader) by [LoganDing](https://github.com/LoganDing/): "A python script to download lectures (videos and slides) from Cousera.org" (python)
 * [Coursera-Video-Downloader-Bookmarklet](https://github.com/andrewgph/Coursera-Video-Downloader-Bookmarklet): Another fork of christiangenco's repo by [andrewgph](https://github.com/andrewgph) which replaces the copy and paste command with direct (parallel) download by the browser.
-
-## Acknowledgements
-
-This project is a fork of [christiangenco's](https://github.com/christiangenco) [repo here](https://github.com/christiangenco/Coursera-Video-Downloader-Bookmarklet) which in turn is an expansion of [a gist](https://gist.github.com/1989008) by [csabapalfi](https://gist.github.com/csabapalfi).
