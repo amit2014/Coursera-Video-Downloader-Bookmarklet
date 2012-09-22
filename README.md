@@ -31,4 +31,4 @@ The  GitHub-flavored markdown renderer on [this project's repo page](https://git
 
 * [coursera-dl](https://github.com/jplehmann/coursera) by [jplehmann](https://github.com/jplehmann): "Script for downloading Coursera.org videos and naming them." (python)
 * [coursera_downloader.py](https://github.com/LoganDing/Coursera.org-Downloader) by [LoganDing](https://github.com/LoganDing/): "A python script to download lectures (videos and slides) from Cousera.org" (python)
-* [Another fork of christiangenco's repo](https://github.com/andrewgph/Coursera-Video-Downloader-Bookmarklet) by [andrewgph](https://github.com/andrewgph) which replaces the copy and paste command with direct (parallel) download by the browser.
+* [Coursera-Video-Downloader-Bookmarklet](https://github.com/andrewgph/Coursera-Video-Downloader-Bookmarklet): Another fork of christiangenco's repo by [andrewgph](https://github.com/andrewgph) which replaces the copy and paste command with direct (parallel) download by the browser.
