@@ -1,3 +1,5 @@
+###I no longer maintain this repo.
+
 # Coursera Video Downloader Bookmarklet
 
 Acknowledgements first, this project is a fork of [christiangenco's](https://github.com/christiangenco) [repo here](https://github.com/christiangenco/Coursera-Video-Downloader-Bookmarklet) which in turn is an expansion of [a gist](https://gist.github.com/1989008) by [csabapalfi](https://gist.github.com/csabapalfi).
